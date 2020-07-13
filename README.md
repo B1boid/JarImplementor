@@ -13,5 +13,10 @@
 
 ## Тестирование:
 
-В директории java-advanced-2020 содержится тестер и тесты
+В директории java-advanced-2020 содержится тестер и тесты.
+
 Запуск тестов: java -cp . -p . -m info.kgeorgiy.java.advanced.implementor jar-interface JarImplementor
+
+## Решение:
+
+В директории java-solutions содержится JarImplementor, а также скрипт для генерации javadoc и скрипт для создания jar.
